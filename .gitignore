@@ -1,0 +1,39 @@
+# =============== #
+# Unity generated #
+# =============== #
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+sysinfo.txt
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Gradle / Android
+.gradle/
+*.apk
+*.aab
+*.keystore
+
+# OS generated
+.DS_Store
+Thumbs.db
